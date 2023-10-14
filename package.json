@@ -1,7 +1,7 @@
 {
     "name": "useless-sort",
     "version": "1.0.0",
-    "description": "Do you really want to use this sort method?",
+    "description": "Do you really want to use this sorting method?",
     "main": "./index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
