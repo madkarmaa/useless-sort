@@ -1,12 +1,15 @@
 {
     "name": "useless-sort",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Do you really want to use this sorting method?",
-    "main": "./index.js",
+    "main": "./dist/uselessSort.min.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "minify": "uglifyjs ./index.js -o ./dist/uselessSort.min.js"
     },
     "keywords": [],
     "author": "mk_",
-    "license": "MIT"
+    "license": "MIT",
+    "devDependencies": {
+        "uglify-js": "^3.17.4"
+    }
 }
