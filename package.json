@@ -8,8 +8,5 @@
     },
     "keywords": [],
     "author": "mk_",
-    "license": "MIT",
-    "devDependencies": {
-        "uglify-js": "^3.17.4"
-    }
+    "license": "MIT"
 }
