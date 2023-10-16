@@ -1,6 +1,6 @@
 {
     "name": "useless-sort",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Do you really want to use this sorting method?",
     "main": "./index.js",
     "scripts": {
