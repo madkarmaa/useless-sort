@@ -2,7 +2,7 @@
     "name": "useless-sort",
     "version": "1.0.1",
     "description": "Do you really want to use this sorting method?",
-    "main": "./dist/uselessSort.min.js",
+    "main": "./index.js",
     "scripts": {
         "minify": "uglifyjs ./index.js -o ./dist/uselessSort.min.js"
     },
