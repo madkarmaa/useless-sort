@@ -3,10 +3,18 @@
     "version": "1.0.2",
     "description": "Do you really want to use this sorting method?",
     "main": "./index.js",
-    "scripts": {
-        "minify": "uglifyjs ./index.js -o ./dist/uselessSort.min.js"
-    },
-    "keywords": [],
+    "keywords": [
+        "node",
+        "node-js",
+        "node-libraries",
+        "node-library",
+        "nodejs",
+        "nodejs-libraries",
+        "nodejs-library",
+        "sort",
+        "sorting",
+        "sorting-algorithms"
+    ],
     "author": "mk_",
     "license": "MIT"
 }
